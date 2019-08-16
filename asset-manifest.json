@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/2020/static/css/main.f918913d.chunk.css",
+    "main.css": "/2020/static/css/main.11aaa1ea.chunk.css",
     "main.js": "/2020/static/js/main.28ad4d8d.chunk.js",
     "main.js.map": "/2020/static/js/main.28ad4d8d.chunk.js.map",
     "runtime~main.js": "/2020/static/js/runtime~main.8ee6e4f6.js",
@@ -8,9 +8,9 @@
     "static/js/2.42c93fac.chunk.js": "/2020/static/js/2.42c93fac.chunk.js",
     "static/js/2.42c93fac.chunk.js.map": "/2020/static/js/2.42c93fac.chunk.js.map",
     "index.html": "/2020/index.html",
-    "precache-manifest.f7d47496bdc1b0f19a6ea52aaa2af6dd.js": "/2020/precache-manifest.f7d47496bdc1b0f19a6ea52aaa2af6dd.js",
+    "precache-manifest.53e3242da517a468aef4f26c20cec377.js": "/2020/precache-manifest.53e3242da517a468aef4f26c20cec377.js",
     "service-worker.js": "/2020/service-worker.js",
-    "static/css/main.f918913d.chunk.css.map": "/2020/static/css/main.f918913d.chunk.css.map",
+    "static/css/main.11aaa1ea.chunk.css.map": "/2020/static/css/main.11aaa1ea.chunk.css.map",
     "static/media/index.css": "/2020/static/media/pe-icon-social.cf5e5e03.svg",
     "static/media/RazorX2.png": "/2020/static/media/RazorX2.cc3495a7.png",
     "static/media/alison.jpeg": "/2020/static/media/alison.5fd47664.jpeg",
