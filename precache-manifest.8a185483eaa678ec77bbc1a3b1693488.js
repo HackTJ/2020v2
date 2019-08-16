@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca2914b9574e9f887edf8da13733c465",
+    "revision": "ccc26180164663366d0f4420d8971361",
     "url": "/2020/index.html"
   },
   {
-    "revision": "ed4eeaff6f8305090ae2",
+    "revision": "376a7f90f1fd286dac03",
     "url": "/2020/static/css/main.11aaa1ea.chunk.css"
   },
   {
-    "revision": "e4b841b278c3f4c40baf",
-    "url": "/2020/static/js/2.42c93fac.chunk.js"
+    "revision": "fda922e5d298704abedb",
+    "url": "/2020/static/js/2.efa49b0a.chunk.js"
   },
   {
-    "revision": "ed4eeaff6f8305090ae2",
-    "url": "/2020/static/js/main.28ad4d8d.chunk.js"
+    "revision": "376a7f90f1fd286dac03",
+    "url": "/2020/static/js/main.f8455e62.chunk.js"
   },
   {
     "revision": "fb7ba275cdbdded2dbd6",
@@ -80,8 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/decipher.2010f688.png"
   },
   {
+    "revision": "b3b80c3137c8078a1052c4dab07d1ee6",
+    "url": "/2020/static/media/ecc.b3b80c31.pdf"
+  },
+  {
     "revision": "aac980ea2375efa9df5f9b29f45460d4",
     "url": "/2020/static/media/fanniemae.aac980ea.png"
+  },
+  {
+    "revision": "12be7b9ddaca3175e1cf313a0754debc",
+    "url": "/2020/static/media/fieldtrip.12be7b9d.pdf"
   },
   {
     "revision": "7cea10a3a2d3c515c8d825ea3a8a372e",
