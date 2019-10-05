@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a2a7084a046e3cbad0a2e3aefe55196",
+    "revision": "8078d1a37445d0b7d92ac7d2187da13b",
     "url": "/2020/index.html"
   },
   {
-    "revision": "1bca127c206b184e670d",
-    "url": "/2020/static/css/main.1d46684f.chunk.css"
+    "revision": "7b482bc4acd5fa7d675d",
+    "url": "/2020/static/css/main.8f9e5007.chunk.css"
   },
   {
-    "revision": "3ac8969aae56aa1914d2",
-    "url": "/2020/static/js/2.e37822d5.chunk.js"
+    "revision": "687a88cc7a84e972a737",
+    "url": "/2020/static/js/2.15c28ec7.chunk.js"
   },
   {
-    "revision": "1bca127c206b184e670d",
-    "url": "/2020/static/js/main.809f87d6.chunk.js"
+    "revision": "7b482bc4acd5fa7d675d",
+    "url": "/2020/static/js/main.4a0ba980.chunk.js"
   },
   {
     "revision": "fb7ba275cdbdded2dbd6",
@@ -42,6 +42,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c49d9e5bb12d5896af9d931c79873e3e",
     "url": "/2020/static/media/AvenirNext-UltraLight.c49d9e5b.woff"
+  },
+  {
+    "revision": "30799efa5bf74129468ad4e257551dc3",
+    "url": "/2020/static/media/Roboto-Regular.30799efa.eot"
+  },
+  {
+    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
+    "url": "/2020/static/media/Roboto-Regular.ba3dcd89.woff"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/2020/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "49fa780df72b927c84fe82e0463e8801",
