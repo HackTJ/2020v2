@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1330ff7ec47f9124454859fe49e89fcb",
+    "revision": "f0a9f4f689ba2bd9cbcec869e7d5125e",
     "url": "/2020/index.html"
   },
   {
-    "revision": "53c06822d2a2d07b715c",
+    "revision": "1e84251e3c7514311ce6",
     "url": "/2020/static/css/2.e71d8db5.chunk.css"
   },
   {
-    "revision": "d2b5cd555a848faa08a0",
-    "url": "/2020/static/css/main.d3882235.chunk.css"
+    "revision": "2fe28a34fa041686e115",
+    "url": "/2020/static/css/main.422fb3a5.chunk.css"
   },
   {
-    "revision": "53c06822d2a2d07b715c",
-    "url": "/2020/static/js/2.89200fe9.chunk.js"
+    "revision": "1e84251e3c7514311ce6",
+    "url": "/2020/static/js/2.6df474dc.chunk.js"
   },
   {
-    "revision": "d2b5cd555a848faa08a0",
-    "url": "/2020/static/js/main.d31d0561.chunk.js"
+    "revision": "2fe28a34fa041686e115",
+    "url": "/2020/static/js/main.91b04efd.chunk.js"
   },
   {
     "revision": "fb7ba275cdbdded2dbd6",
@@ -48,6 +48,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/AvenirNext-UltraLight.c49d9e5b.woff"
   },
   {
+    "revision": "fff679aa8c18efaf309e9868f48a8abf",
+    "url": "/2020/static/media/JerryLi.fff679aa.jpg"
+  },
+  {
+    "revision": "a4e20fc870e3ae32422a33cc93c595df",
+    "url": "/2020/static/media/KotrynaVismante.a4e20fc8.jpg"
+  },
+  {
+    "revision": "664cdc47c1e35243d778d8a47fc1f141",
+    "url": "/2020/static/media/MarianQian.664cdc47.jpg"
+  },
+  {
+    "revision": "3eb09e71fad2c98e0481dfe21c963e8d",
+    "url": "/2020/static/media/MeganDass.3eb09e71.jpg"
+  },
+  {
+    "revision": "9b2a71430394ae1597f9f78d86bfe84a",
+    "url": "/2020/static/media/NishithaVattikonda.9b2a7143.jpg"
+  },
+  {
+    "revision": "6e0ea77d2d9d4fdcc8cfd2f733e2b0b7",
+    "url": "/2020/static/media/PranavMathur.6e0ea77d.jpg"
+  },
+  {
+    "revision": "ddb1b724a85b304c049f2ac37f77fd64",
+    "url": "/2020/static/media/RaunakDaga.ddb1b724.jpg"
+  },
+  {
     "revision": "30799efa5bf74129468ad4e257551dc3",
     "url": "/2020/static/media/Roboto-Regular.30799efa.eot"
   },
@@ -70,6 +98,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
     "url": "/2020/static/media/Roboto-Thin.dfe56a87.eot"
+  },
+  {
+    "revision": "d9fe58e1606a56867fc5eb988e035be6",
+    "url": "/2020/static/media/SamhitaVinay.d9fe58e1.jpg"
+  },
+  {
+    "revision": "88fb64cd752b830d96c835e24c587b81",
+    "url": "/2020/static/media/SarahWang.88fb64cd.jpg"
+  },
+  {
+    "revision": "0a0d1e06819ca1ec3c07af6ec47db584",
+    "url": "/2020/static/media/SumanthRatna.0a0d1e06.jpg"
+  },
+  {
+    "revision": "7b91fa7d388d2128f1d6bb69ff157418",
+    "url": "/2020/static/media/TammyDing.7b91fa7d.jpg"
   },
   {
     "revision": "49fa780df72b927c84fe82e0463e8801",
@@ -130,6 +174,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1dfa7ba4c165ed7978e071f3f13a1cd3",
     "url": "/2020/static/media/phone2action.1dfa7ba4.png"
+  },
+  {
+    "revision": "7a0129ad62a9ac50cb12e28a7ab64ed6",
+    "url": "/2020/static/media/placeholder.7a0129ad.png"
   },
   {
     "revision": "37960735191f83e577f7d1dae4eb3f62",
