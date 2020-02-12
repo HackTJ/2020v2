@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/2020/static/css/main.9ff50133.chunk.css",
-    "main.js": "/2020/static/js/main.698cc469.chunk.js",
-    "main.js.map": "/2020/static/js/main.698cc469.chunk.js.map",
+    "main.css": "/2020/static/css/main.9a40b827.chunk.css",
+    "main.js": "/2020/static/js/main.6df2d28c.chunk.js",
+    "main.js.map": "/2020/static/js/main.6df2d28c.chunk.js.map",
     "runtime-main.js": "/2020/static/js/runtime-main.f0985004.js",
     "runtime-main.js.map": "/2020/static/js/runtime-main.f0985004.js.map",
     "static/css/2.7efaf445.chunk.css": "/2020/static/css/2.7efaf445.chunk.css",
-    "static/js/2.64b39f5d.chunk.js": "/2020/static/js/2.64b39f5d.chunk.js",
-    "static/js/2.64b39f5d.chunk.js.map": "/2020/static/js/2.64b39f5d.chunk.js.map",
+    "static/js/2.bfd08b72.chunk.js": "/2020/static/js/2.bfd08b72.chunk.js",
+    "static/js/2.bfd08b72.chunk.js.map": "/2020/static/js/2.bfd08b72.chunk.js.map",
     "index.html": "/2020/index.html",
-    "precache-manifest.7175b254c6a4df7d86a409c1f4685021.js": "/2020/precache-manifest.7175b254c6a4df7d86a409c1f4685021.js",
+    "precache-manifest.3f073c66374820f031e222e9a0baa77a.js": "/2020/precache-manifest.3f073c66374820f031e222e9a0baa77a.js",
     "service-worker.js": "/2020/service-worker.js",
     "static/css/2.7efaf445.chunk.css.map": "/2020/static/css/2.7efaf445.chunk.css.map",
-    "static/css/main.9ff50133.chunk.css.map": "/2020/static/css/main.9ff50133.chunk.css.map",
-    "static/js/2.64b39f5d.chunk.js.LICENSE.txt": "/2020/static/js/2.64b39f5d.chunk.js.LICENSE.txt",
+    "static/css/main.9a40b827.chunk.css.map": "/2020/static/css/main.9a40b827.chunk.css.map",
+    "static/js/2.bfd08b72.chunk.js.LICENSE.txt": "/2020/static/js/2.bfd08b72.chunk.js.LICENSE.txt",
     "static/media/index.css": "/2020/static/media/pe-icon-social.cf5e5e03.svg",
     "static/media/ForrestMeng.jpg": "/2020/static/media/ForrestMeng.aa887993.jpg",
     "static/media/JerryLi.jpg": "/2020/static/media/JerryLi.fff679aa.jpg",
@@ -35,12 +35,12 @@
     "static/media/alertfive.png": "/2020/static/media/alertfive.b3a089d0.png",
     "static/media/aws.png": "/2020/static/media/aws.6bb0fcd0.png",
     "static/media/bigweblogo.png": "/2020/static/media/bigweblogo.bbb824df.png",
-    "static/media/collinsaerospace.jpeg": "/2020/static/media/collinsaerospace.03b82106.jpeg",
+    "static/media/collinsaerospace.png": "/2020/static/media/collinsaerospace.ff7503c8.png",
     "static/media/logo-black.png": "/2020/static/media/logo-black.b4b6605f.png",
     "static/media/mlh.png": "/2020/static/media/mlh.947395a0.png",
     "static/media/phone2action.png": "/2020/static/media/phone2action.1dfa7ba4.png",
     "static/media/razorx2.png": "/2020/static/media/razorx2.37502ed1.png",
-    "static/media/spontit.png": "/2020/static/media/spontit.689e93c2.png",
+    "static/media/spontit.png": "/2020/static/media/spontit.cf25b36b.png",
     "static/media/thinkfun.png": "/2020/static/media/thinkfun.df286770.png",
     "static/media/tjpartnershipfund.jpg": "/2020/static/media/tjpartnershipfund.db8b2bb3.jpg",
     "static/media/yext.png": "/2020/static/media/yext.daf29b56.png"
@@ -48,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.f0985004.js",
     "static/css/2.7efaf445.chunk.css",
-    "static/js/2.64b39f5d.chunk.js",
-    "static/css/main.9ff50133.chunk.css",
-    "static/js/main.698cc469.chunk.js"
+    "static/js/2.bfd08b72.chunk.js",
+    "static/css/main.9a40b827.chunk.css",
+    "static/js/main.6df2d28c.chunk.js"
   ]
 }

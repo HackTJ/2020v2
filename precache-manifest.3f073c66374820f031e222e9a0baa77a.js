@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84402d1b73f9aa2f2bc9e1c4668ee8bb",
+    "revision": "cca353ee722d117769a1b3fce66d8fd4",
     "url": "/2020/index.html"
   },
   {
-    "revision": "8bbcd8e98416b4fa22e4",
+    "revision": "a66174206eb278970759",
     "url": "/2020/static/css/2.7efaf445.chunk.css"
   },
   {
-    "revision": "f7f8a51e327a6bf98f23",
-    "url": "/2020/static/css/main.9ff50133.chunk.css"
+    "revision": "42b324f1749f86f823ad",
+    "url": "/2020/static/css/main.9a40b827.chunk.css"
   },
   {
-    "revision": "8bbcd8e98416b4fa22e4",
-    "url": "/2020/static/js/2.64b39f5d.chunk.js"
+    "revision": "a66174206eb278970759",
+    "url": "/2020/static/js/2.bfd08b72.chunk.js"
   },
   {
-    "revision": "9deac12d165d76b9564cc1f0f76b329f",
-    "url": "/2020/static/js/2.64b39f5d.chunk.js.LICENSE.txt"
+    "revision": "decce99726dd73611a86550065ac1ed7",
+    "url": "/2020/static/js/2.bfd08b72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7f8a51e327a6bf98f23",
-    "url": "/2020/static/js/main.698cc469.chunk.js"
+    "revision": "42b324f1749f86f823ad",
+    "url": "/2020/static/js/main.6df2d28c.chunk.js"
   },
   {
     "revision": "d8ae49b3abd45ee4dcc2",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/bkg.7f37fb68.png"
   },
   {
-    "revision": "03b82106ada0ba071bcf7cfe0d81b644",
-    "url": "/2020/static/media/collinsaerospace.03b82106.jpeg"
+    "revision": "ff7503c80403a5bced8aa9f174fa21ed",
+    "url": "/2020/static/media/collinsaerospace.ff7503c8.png"
   },
   {
     "revision": "39aef4dab6c15328034fbc1f3cdb989b",
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/razorx2.37502ed1.png"
   },
   {
-    "revision": "689e93c2c2b2130e64cf2af8f41e1f3a",
-    "url": "/2020/static/media/spontit.689e93c2.png"
+    "revision": "cf25b36b055db0fc7b5a49fd16edfbff",
+    "url": "/2020/static/media/spontit.cf25b36b.png"
   },
   {
     "revision": "df2867707ee33dc337701243c4e189df",
