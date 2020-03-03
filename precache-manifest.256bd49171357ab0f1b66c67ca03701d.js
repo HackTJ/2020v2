@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2731adbb779ba0f2dd902f019b041c6",
+    "revision": "1d91f44d1986d6bbdba4d2f23ef98ad9",
     "url": "/2020/index.html"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/css/3.7efaf445.chunk.css"
   },
   {
-    "revision": "cd1186c812353c339ad6",
+    "revision": "f562ba6c87f37ff85d86",
     "url": "/2020/static/css/4.98cfa70e.chunk.css"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/js/3.fc3a85b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd1186c812353c339ad6",
-    "url": "/2020/static/js/4.024f577a.chunk.js"
+    "revision": "f562ba6c87f37ff85d86",
+    "url": "/2020/static/js/4.0eca0c12.chunk.js"
   },
   {
     "revision": "a9dd92b7eae76f1f83ef",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/js/main.d493e6f4.chunk.js"
   },
   {
-    "revision": "a3b227e750099569f0cf",
-    "url": "/2020/static/js/runtime-main.ee4cc0f2.js"
+    "revision": "07b4da182d98de5b7435",
+    "url": "/2020/static/js/runtime-main.d09e3d89.js"
   },
   {
     "revision": "161902950bf5ad15a8ea0810b20b3416",
@@ -288,20 +288,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/alertfive.b3a089d0.png"
   },
   {
-    "revision": "71298f1810ade8f69a7ff9352d928617",
-    "url": "/2020/static/media/atpco.71298f18.png"
+    "revision": "de46c1b1131b32f7894b3cdb65971cdc",
+    "url": "/2020/static/media/atpco.de46c1b1.png"
   },
   {
-    "revision": "c19d31973dd93bd70315613a642c6b4a",
-    "url": "/2020/static/media/atpco.c19d3197.png"
+    "revision": "f87edfdf32bf4cacf957c246794ef4b7",
+    "url": "/2020/static/media/atpco.f87edfdf.png"
   },
   {
     "revision": "6bb0fcd0d3f00077892b74ffebad764f",
     "url": "/2020/static/media/aws.6bb0fcd0.png"
   },
   {
-    "revision": "d40b74bc4607671779c968647161fd4e",
-    "url": "/2020/static/media/aws.d40b74bc.png"
+    "revision": "a59ab22b4a2716c477836b4132013223",
+    "url": "/2020/static/media/aws.a59ab22b.png"
   },
   {
     "revision": "bbb824df6023903256303caf00ba12d4",
@@ -312,8 +312,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/bkg.7f37fb68.png"
   },
   {
-    "revision": "a9b919be80ca8de09fcb6646744d4f46",
-    "url": "/2020/static/media/citadelsecurities.a9b919be.png"
+    "revision": "6593cd07be21b435bdb6413371662830",
+    "url": "/2020/static/media/citadelsecurities.6593cd07.png"
   },
   {
     "revision": "dde6ecb8749c9d8c5faf32e93d0570d4",
@@ -324,20 +324,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/cloudwave.50e194a3.png"
   },
   {
-    "revision": "b62134f26d9efcf331c5ccaceddb7f83",
-    "url": "/2020/static/media/cloudwave.b62134f2.png"
+    "revision": "765cd837721dbf7fd8b665797cb8f6b3",
+    "url": "/2020/static/media/cloudwave.765cd837.png"
   },
   {
-    "revision": "0b8ce531e35c5e6ae009c0ca42b4a0bf",
-    "url": "/2020/static/media/collinsaerospace.0b8ce531.png"
+    "revision": "32ca23d4cfb0b1c8e4b840177c980f44",
+    "url": "/2020/static/media/collinsaerospace.32ca23d4.png"
   },
   {
     "revision": "8dfded4812cf4c98278604360449dfc9",
     "url": "/2020/static/media/collinsaerospace.8dfded48.png"
   },
   {
-    "revision": "5e597601f204e9bcafafcfbdbcd615eb",
-    "url": "/2020/static/media/digitalocean.5e597601.png"
+    "revision": "f31dfef171d966f8a4db9ce0c0127446",
+    "url": "/2020/static/media/digitalocean.f31dfef1.png"
   },
   {
     "revision": "39aef4dab6c15328034fbc1f3cdb989b",
@@ -356,12 +356,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/icons.f8976fea.svg"
   },
   {
-    "revision": "6732486d87e4095671cd8ab367151ddb",
-    "url": "/2020/static/media/mlh.6732486d.png"
-  },
-  {
     "revision": "947395a040f26a6edb782f5a5280fd65",
     "url": "/2020/static/media/mlh.947395a0.png"
+  },
+  {
+    "revision": "a95352ee4949435f93eab4efd28e5fa5",
+    "url": "/2020/static/media/mlh.a95352ee.png"
   },
   {
     "revision": "2a61bde27c4886886d7254bf59def449",
@@ -384,32 +384,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/phone2action.1dfa7ba4.png"
   },
   {
-    "revision": "5b68cb1f259147ee86e27133036fc49d",
-    "url": "/2020/static/media/phone2action.5b68cb1f.png"
+    "revision": "45e2b2928c4d34d33ceb708dbdbf8ffc",
+    "url": "/2020/static/media/phone2action.45e2b292.png"
   },
   {
     "revision": "9e43bb9c4083e7bd7f22953393f0bb74",
     "url": "/2020/static/media/primamedicine.9e43bb9c.png"
   },
   {
-    "revision": "1d09f2401397443654aeb56cf003d668",
-    "url": "/2020/static/media/razorx2.1d09f240.png"
-  },
-  {
     "revision": "37502ed15c3c776a45440105c3885559",
     "url": "/2020/static/media/razorx2.37502ed1.png"
   },
   {
-    "revision": "ab209cf09e03ad3eed8021a908bb4a5b",
-    "url": "/2020/static/media/spontit.ab209cf0.png"
+    "revision": "f706251893dd8b1d1674caae35794a01",
+    "url": "/2020/static/media/razorx2.f7062518.png"
+  },
+  {
+    "revision": "c4b3d49ba086e3aa738b618a1c76be85",
+    "url": "/2020/static/media/spontit.c4b3d49b.png"
   },
   {
     "revision": "cf25b36b055db0fc7b5a49fd16edfbff",
     "url": "/2020/static/media/spontit.cf25b36b.png"
   },
   {
-    "revision": "64146fb13297f9ecc436cb4238c0b6c5",
-    "url": "/2020/static/media/stackoverflow.64146fb1.png"
+    "revision": "151119d901d76dbb9cf869631ac35a18",
+    "url": "/2020/static/media/stackoverflow.151119d9.png"
   },
   {
     "revision": "ac44060fb79c893524a1a78fab2a98d8",
@@ -420,55 +420,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/stickermule.49ea5efe.png"
   },
   {
-    "revision": "de6b0560f3eccfc4da475c8aa429c607",
-    "url": "/2020/static/media/stickermule.de6b0560.png"
+    "revision": "ca6e01a8a8a8a5c4a97ca14d49a486ca",
+    "url": "/2020/static/media/stickermule.ca6e01a8.png"
+  },
+  {
+    "revision": "464d15d4650d25aa8d51d7807e1f675f",
+    "url": "/2020/static/media/thinkfun.464d15d4.png"
   },
   {
     "revision": "df2867707ee33dc337701243c4e189df",
     "url": "/2020/static/media/thinkfun.df286770.png"
   },
   {
-    "revision": "e57cfbe14ac24a805e91be8f434bb1c4",
-    "url": "/2020/static/media/thinkfun.e57cfbe1.png"
-  },
-  {
     "revision": "0fd9267d37b54e809f63ebd979678824",
     "url": "/2020/static/media/tjpartnershipfund.0fd9267d.png"
   },
   {
-    "revision": "6fc0dd9cd154f632934a90a0bc11c02d",
-    "url": "/2020/static/media/tjpartnershipfund.6fc0dd9c.png"
+    "revision": "1c2e416c893a03ec6c5c487a8dfdb67f",
+    "url": "/2020/static/media/tjpartnershipfund.1c2e416c.png"
   },
   {
-    "revision": "99ce3332cf7629683682756b39d82286",
-    "url": "/2020/static/media/ultrapress.99ce3332.png"
+    "revision": "723749fbbf9cdfa516d16fdbf570a45b",
+    "url": "/2020/static/media/ultrapress.723749fb.png"
   },
   {
     "revision": "c5cdabd786b105016272fe518916f5b2",
     "url": "/2020/static/media/ultrapress.c5cdabd7.png"
   },
   {
-    "revision": "67c9cbc9522e2ee9f5abfe76f612fc2b",
-    "url": "/2020/static/media/verizonmedia.67c9cbc9.png"
+    "revision": "7bc76b492de13d7af08f404fcc736252",
+    "url": "/2020/static/media/verizonmedia.7bc76b49.png"
   },
   {
-    "revision": "b7a419eabdda4ae7e76f0ce1ae069c43",
-    "url": "/2020/static/media/verizonmedia.b7a419ea.png"
+    "revision": "9503222f8fce22f74092fc9ef9470dfa",
+    "url": "/2020/static/media/verizonmedia.9503222f.png"
   },
   {
     "revision": "20821acd5b44dda81fecd51d2a66acc8",
     "url": "/2020/static/media/wolfram.20821acd.png"
   },
   {
-    "revision": "fc33b0a9229b4db9be2a95285e73172b",
-    "url": "/2020/static/media/wolfram.fc33b0a9.png"
-  },
-  {
-    "revision": "21f6944fb1e65188f6e72dc01ae4b5a9",
-    "url": "/2020/static/media/yext.21f6944f.png"
+    "revision": "c5c555a7ece5b077959a9c6876dfe7de",
+    "url": "/2020/static/media/wolfram.c5c555a7.png"
   },
   {
     "revision": "daf29b56e6ba907a069756b008756433",
     "url": "/2020/static/media/yext.daf29b56.png"
+  },
+  {
+    "revision": "ea0ab9047e5c97d2f3a64eb05d875ade",
+    "url": "/2020/static/media/yext.ea0ab904.png"
   }
 ]);
