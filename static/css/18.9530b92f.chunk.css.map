@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,yCACE,8BACE,eAAgB,CAChB,SACF,CACF","file":"18.9530b92f.chunk.css","sourcesContent":["@media only screen and (max-width: 640px) {\n  section#register a.long-label {\n    line-height: 1em;\n    width: 90%;\n  }\n}\n"]}
