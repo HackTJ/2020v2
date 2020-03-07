@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d548dcaef3433dc7772062ac2e47c14b",
+    "revision": "12e7ffac69da18e3b3323bf98c42c8e6",
     "url": "/2020/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/css/14.facda840.chunk.css"
   },
   {
-    "revision": "a3e8fc53013adce49699",
+    "revision": "6b04d11665d67a670829",
     "url": "/2020/static/css/15.f4565ba3.chunk.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/css/3.7efaf445.chunk.css"
   },
   {
-    "revision": "fe5ffd122fa5579f34ea",
+    "revision": "4070968d96e46a45ab91",
     "url": "/2020/static/css/4.98cfa70e.chunk.css"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/js/14.71512a91.chunk.js"
   },
   {
-    "revision": "a3e8fc53013adce49699",
-    "url": "/2020/static/js/15.47dd683f.chunk.js"
+    "revision": "6b04d11665d67a670829",
+    "url": "/2020/static/js/15.d384f79e.chunk.js"
   },
   {
     "revision": "25a8c740ae1374a7a0df",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/js/3.fc3a85b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe5ffd122fa5579f34ea",
-    "url": "/2020/static/js/4.bdeb535d.chunk.js"
+    "revision": "4070968d96e46a45ab91",
+    "url": "/2020/static/js/4.c4944028.chunk.js"
   },
   {
     "revision": "a9dd92b7eae76f1f83ef",
@@ -156,8 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/js/main.d4a1854d.chunk.js"
   },
   {
-    "revision": "5a6e05fb99f82db579af",
-    "url": "/2020/static/js/runtime-main.6634d74d.js"
+    "revision": "46d21ba4aa381413b808",
+    "url": "/2020/static/js/runtime-main.f30b54bb.js"
   },
   {
     "revision": "161902950bf5ad15a8ea0810b20b3416",
@@ -280,16 +280,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/alertfive.b3a089d0.png"
   },
   {
-    "revision": "38c76e885b10925b0c54cf8baf8e79a6",
-    "url": "/2020/static/media/atpco.38c76e88.png"
-  },
-  {
     "revision": "de46c1b1131b32f7894b3cdb65971cdc",
     "url": "/2020/static/media/atpco.de46c1b1.png"
   },
   {
-    "revision": "0c76adb15c27c0c8bedc743e827ccd58",
-    "url": "/2020/static/media/aws.0c76adb1.png"
+    "revision": "f1a8cb4a34179166cd7f6a5f06f6c23a",
+    "url": "/2020/static/media/atpco.f1a8cb4a.png"
+  },
+  {
+    "revision": "3517b105de6ad92ea6adfc4680d974d3",
+    "url": "/2020/static/media/aws.3517b105.png"
   },
   {
     "revision": "6bb0fcd0d3f00077892b74ffebad764f",
@@ -304,36 +304,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/bkg.7f37fb68.png"
   },
   {
-    "revision": "ddadd2da086682fbbe7ba84de8a93cd9",
-    "url": "/2020/static/media/citadelsecurities.ddadd2da.png"
+    "revision": "3a02e7fade9c157adfb586e08022b3ff",
+    "url": "/2020/static/media/citadelsecurities.3a02e7fa.png"
   },
   {
     "revision": "dde6ecb8749c9d8c5faf32e93d0570d4",
     "url": "/2020/static/media/citadelsecurities.dde6ecb8.png"
   },
   {
-    "revision": "50e194a3574a2196c4e382ee70f4bec1",
-    "url": "/2020/static/media/cloudwave.50e194a3.png"
+    "revision": "63889619305c32c4de8d696548911d1f",
+    "url": "/2020/static/media/cloudwave.63889619.png"
   },
   {
-    "revision": "ec0213c5250e266dbe2762c9e71f6838",
-    "url": "/2020/static/media/cloudwave.ec0213c5.png"
-  },
-  {
-    "revision": "5ef2bf6fe170b73c01dd98046ae82efb",
-    "url": "/2020/static/media/collinsaerospace.5ef2bf6f.png"
+    "revision": "6b6b46f478478b4224e2eb82b3d436cf",
+    "url": "/2020/static/media/cloudwave.6b6b46f4.png"
   },
   {
     "revision": "8dfded4812cf4c98278604360449dfc9",
     "url": "/2020/static/media/collinsaerospace.8dfded48.png"
   },
   {
+    "revision": "c3f13ca8ce4af7fff8f6dfc1548bea8d",
+    "url": "/2020/static/media/collinsaerospace.c3f13ca8.png"
+  },
+  {
     "revision": "c237285db8e424a21021cb0de36a25d7",
     "url": "/2020/static/media/cvent.c237285d.png"
   },
   {
-    "revision": "6b932beae00a3ae3de40b1da65b21646",
-    "url": "/2020/static/media/digitalocean.6b932bea.png"
+    "revision": "cd2d54ea938da5d9d4b69f190151e86c",
+    "url": "/2020/static/media/digitalocean.cd2d54ea.png"
   },
   {
     "revision": "39aef4dab6c15328034fbc1f3cdb989b",
@@ -352,12 +352,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/icons.f8976fea.svg"
   },
   {
-    "revision": "5efb7bb38bf6b30962e32740de4a4c9f",
-    "url": "/2020/static/media/mlh.5efb7bb3.png"
-  },
-  {
     "revision": "947395a040f26a6edb782f5a5280fd65",
     "url": "/2020/static/media/mlh.947395a0.png"
+  },
+  {
+    "revision": "b55820f21d4cae1f99413e33928f1fda",
+    "url": "/2020/static/media/mlh.b55820f2.png"
   },
   {
     "revision": "2a61bde27c4886886d7254bf59def449",
@@ -380,88 +380,88 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020/static/media/phone2action.1dfa7ba4.png"
   },
   {
-    "revision": "59b3eb6f94213398cc72cffe52b4527d",
-    "url": "/2020/static/media/phone2action.59b3eb6f.png"
+    "revision": "60137a05f0622977a3f9e2fc65739dbd",
+    "url": "/2020/static/media/phone2action.60137a05.png"
   },
   {
     "revision": "9e43bb9c4083e7bd7f22953393f0bb74",
     "url": "/2020/static/media/primamedicine.9e43bb9c.png"
   },
   {
-    "revision": "2e9d3e3119e6e863432feb403ffc3c79",
-    "url": "/2020/static/media/razorx2.2e9d3e31.png"
-  },
-  {
     "revision": "37502ed15c3c776a45440105c3885559",
     "url": "/2020/static/media/razorx2.37502ed1.png"
+  },
+  {
+    "revision": "74e061a79072e6389d8055990d777d2c",
+    "url": "/2020/static/media/razorx2.74e061a7.png"
+  },
+  {
+    "revision": "676f5183109cd7ef63ef0ccd72bf53b8",
+    "url": "/2020/static/media/spontit.676f5183.png"
   },
   {
     "revision": "cf25b36b055db0fc7b5a49fd16edfbff",
     "url": "/2020/static/media/spontit.cf25b36b.png"
   },
   {
-    "revision": "d4a322e8c676dcee11d287321a9784cd",
-    "url": "/2020/static/media/spontit.d4a322e8.png"
+    "revision": "53b5a011a885789c641681ce3580806a",
+    "url": "/2020/static/media/stackoverflow.53b5a011.png"
   },
   {
     "revision": "ac44060fb79c893524a1a78fab2a98d8",
     "url": "/2020/static/media/stackoverflow.ac44060f.png"
   },
   {
-    "revision": "c311cc3841dfd01844bd80f26313e70a",
-    "url": "/2020/static/media/stackoverflow.c311cc38.png"
-  },
-  {
     "revision": "49ea5efef596c94bc5ce4745d6310af4",
     "url": "/2020/static/media/stickermule.49ea5efe.png"
   },
   {
-    "revision": "cbde95373d0074fe5733b0b435c8d732",
-    "url": "/2020/static/media/stickermule.cbde9537.png"
-  },
-  {
-    "revision": "d84c7687035ae428dedfff9feda006cf",
-    "url": "/2020/static/media/thinkfun.d84c7687.png"
+    "revision": "a9d4021e3e3038bf7fd43b07ae7c8b98",
+    "url": "/2020/static/media/stickermule.a9d4021e.png"
   },
   {
     "revision": "df2867707ee33dc337701243c4e189df",
     "url": "/2020/static/media/thinkfun.df286770.png"
   },
   {
+    "revision": "ee86fed5ba5f0405edc8ca9ce902c23f",
+    "url": "/2020/static/media/thinkfun.ee86fed5.png"
+  },
+  {
     "revision": "0fd9267d37b54e809f63ebd979678824",
     "url": "/2020/static/media/tjpartnershipfund.0fd9267d.png"
   },
   {
-    "revision": "464bfcc6352810a307071bb34ea38e31",
-    "url": "/2020/static/media/tjpartnershipfund.464bfcc6.png"
+    "revision": "f77fb573800ff8ca1ed2b26ea2a6aec1",
+    "url": "/2020/static/media/tjpartnershipfund.f77fb573.png"
+  },
+  {
+    "revision": "86fc879cbd7cb38bc4998f540751f08c",
+    "url": "/2020/static/media/ultrapress.86fc879c.png"
   },
   {
     "revision": "c5cdabd786b105016272fe518916f5b2",
     "url": "/2020/static/media/ultrapress.c5cdabd7.png"
   },
   {
-    "revision": "d4196eeee945b5a5db860e3d32fc1668",
-    "url": "/2020/static/media/ultrapress.d4196eee.png"
+    "revision": "3447158868236e0e3382d9c6afbce871",
+    "url": "/2020/static/media/verizonmedia.34471588.png"
   },
   {
     "revision": "7bc76b492de13d7af08f404fcc736252",
     "url": "/2020/static/media/verizonmedia.7bc76b49.png"
   },
   {
-    "revision": "e6fd0305c480ef17e5ad40bd4fbbcbb2",
-    "url": "/2020/static/media/verizonmedia.e6fd0305.png"
-  },
-  {
     "revision": "20821acd5b44dda81fecd51d2a66acc8",
     "url": "/2020/static/media/wolfram.20821acd.png"
   },
   {
-    "revision": "648532ce2f3b21e8df4beb89afa15e8c",
-    "url": "/2020/static/media/wolfram.648532ce.png"
+    "revision": "2fc9f76a0ecb41ac856600a3197b3319",
+    "url": "/2020/static/media/wolfram.2fc9f76a.png"
   },
   {
-    "revision": "166c36ab126b3e9425e44c92a6bcaccb",
-    "url": "/2020/static/media/yext.166c36ab.png"
+    "revision": "5425d587922da268fe6e946671cab843",
+    "url": "/2020/static/media/yext.5425d587.png"
   },
   {
     "revision": "daf29b56e6ba907a069756b008756433",
