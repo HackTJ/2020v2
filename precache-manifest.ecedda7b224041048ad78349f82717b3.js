@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "247cebc4c273a4568a3981d20bd3cb3f",
+    "revision": "7939cfed845290520813f249db7966cc",
     "url": "/2020v2/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/10.2a861928.chunk.css"
   },
   {
-    "revision": "e3920c90104a3ea51b0a",
-    "url": "/2020v2/static/css/11.0c3a7877.chunk.css"
+    "revision": "28d1eb3c0fc0f635516f",
+    "url": "/2020v2/static/css/11.dc746d80.chunk.css"
   },
   {
     "revision": "387a864251cbfe4149c4",
@@ -36,23 +36,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/7.141c4a55.chunk.css"
   },
   {
-    "revision": "6dd88232c347ca90e097",
-    "url": "/2020v2/static/css/8.64089c87.chunk.css"
+    "revision": "ad422d9266dc2d30fe29",
+    "url": "/2020v2/static/css/8.f5cfdc5b.chunk.css"
   },
   {
     "revision": "c422235fe32ef01aef6b",
     "url": "/2020v2/static/css/9.658c6952.chunk.css"
   },
   {
-    "revision": "12d6f85fc32a38eaa8b2",
-    "url": "/2020v2/static/css/main.b9fc3161.chunk.css"
+    "revision": "dc50d2d9666248824f0f",
+    "url": "/2020v2/static/css/main.f1ba041e.chunk.css"
   },
   {
     "revision": "3465405272d953ee2ed2",
     "url": "/2020v2/static/js/10.e8a91769.chunk.js"
   },
   {
-    "revision": "e3920c90104a3ea51b0a",
+    "revision": "28d1eb3c0fc0f635516f",
     "url": "/2020v2/static/js/11.f9d1269d.chunk.js"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/7.49f0d773.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dd88232c347ca90e097",
+    "revision": "ad422d9266dc2d30fe29",
     "url": "/2020v2/static/js/8.7501bdf1.chunk.js"
   },
   {
@@ -128,12 +128,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/9.3d940a01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12d6f85fc32a38eaa8b2",
+    "revision": "dc50d2d9666248824f0f",
     "url": "/2020v2/static/js/main.18ea88db.chunk.js"
   },
   {
-    "revision": "4e22cd57065c512415b3",
-    "url": "/2020v2/static/js/runtime-main.44cc3855.js"
+    "revision": "f54d7cecdb050f133d6c",
+    "url": "/2020v2/static/js/runtime-main.4c4fb283.js"
   },
   {
     "revision": "8c03f701b97b7b07272d874246a0c311",
