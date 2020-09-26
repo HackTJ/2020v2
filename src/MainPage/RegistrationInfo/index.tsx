@@ -12,7 +12,8 @@ const RegistrationInfo = (): JSX.Element => (
         {/* <div className="vertical-segment green"></div> */}
         <h1 className="section-title">Registration Info</h1>
         <p className="large centered">
-          Registration for participants will open in mid-October - more information to come soon!
+          Registration for participants will open in mid-October - more
+          information to come soon!
         </p>
         <p className="large centered">
           When you register you&apos;ll be asked for several forms. If you want

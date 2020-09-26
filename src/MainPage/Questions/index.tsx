@@ -144,14 +144,14 @@ const Questions = (): JSX.Element => (
             answer={
               <span>
                 Registration will open in mid-October. When it does, there will
-                be a button at the top of the site. Click this, and then you 
+                be a button at the top of the site. Click this, and then you
                 will be redirected to a page where you can click the appropriate
-                form. If you&#39;re interested in participating as a hacker in 
-                HackTJ, click the first button, that says &quot;Participants&quot;.
-                Fill out the questions. Near the end, there will be a few questions 
-                where you can upload your forms. In order to speed up the registration
-                process, print out these forms, fill them out, and scan them
-                beforehand.
+                form. If you&#39;re interested in participating as a hacker in
+                HackTJ, click the first button, that says
+                &quot;Participants&quot;. Fill out the questions. Near the end,
+                there will be a few questions where you can upload your forms.
+                In order to speed up the registration process, print out these
+                forms, fill them out, and scan them beforehand.
               </span>
             }
           />
