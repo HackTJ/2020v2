@@ -68,10 +68,10 @@ const Questions = (): JSX.Element => (
               <span>
                 Registration for participants, judges, mentors, and volunteers
                 will likely open sometime during early November and close near
-                late November. Registration for participants will open at 8pm
-                on Monday, November 2 and close in mid-November. All of our
-                plans are still tentative due to COVID-19; changes to our dates
-                will be reflected on this webpage as soon as they are decided!
+                late November. Registration for participants will open at 8pm on
+                Monday, November 2 and close in mid-November. All of our plans
+                are still tentative due to COVID-19; changes to our dates will
+                be reflected on this webpage as soon as they are decided!
               </span>
             }
           />
@@ -143,16 +143,15 @@ const Questions = (): JSX.Element => (
             question="How do I register?"
             answer={
               <span>
-                Registration will open at 8pm on Monday, November 2. When it 
-                does, there will be a button at the top of the site. Click 
-                this, and then you will be redirected to a page where you 
-                can click the appropriate form. If you&#39;re interested 
-                in participating as a hacker in HackTJ, click the first 
-                button, that says &quot;Participants&quot;. Fill out the 
-                questions. Near the end, there will be a few questions where 
-                you can upload your forms. In order to speed up the registration 
-                process, print out these forms, fill them out, and scan them
-                beforehand.
+                Registration will open at 8pm on Monday, November 2. When it
+                does, there will be a button at the top of the site. Click this,
+                and then you will be redirected to a page where you can click
+                the appropriate form. If you&#39;re interested in participating
+                as a hacker in HackTJ, click the first button, that says
+                &quot;Participants&quot;. Fill out the questions. Near the end,
+                there will be a few questions where you can upload your forms.
+                In order to speed up the registration process, print out these
+                forms, fill them out, and scan them beforehand.
               </span>
             }
           />
