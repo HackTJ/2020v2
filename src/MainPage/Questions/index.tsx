@@ -37,8 +37,8 @@ const Questions = (): JSX.Element => (
             question="When is HackTJ?"
             answer={
               <span>
-                HackTJ will start on Saturday, November 21 and run until Sunday,
-                November 22.
+                HackTJ will start on Saturday, December 12 and run until Sunday,
+                December 13.
               </span>
             }
           />
@@ -66,12 +66,12 @@ const Questions = (): JSX.Element => (
             question="Is there a deadline?"
             answer={
               <span>
-                Registration for participants, judges, mentors, and volunteers
-                will likely open sometime during mid-October and close near
-                mid-November. Registration for participants will also likely
-                open during mid-October and will end in late-October. All of our
-                plans are still tentative due to COVID-19; changes to our dates
-                will be reflected on this webpage as soon as they are decided!
+                Registration for judges, mentors, and volunteers will likely
+                open sometime during early November and close near late
+                November. Registration for participants will open at 8 p.m. on
+                Monday, November 2 and close in mid-November. All of our plans
+                are still tentative due to COVID-19; changes to our dates will
+                be reflected on this webpage as soon as they are decided!
               </span>
             }
           />
@@ -143,11 +143,11 @@ const Questions = (): JSX.Element => (
             question="How do I register?"
             answer={
               <span>
-                Registration will open in mid-October. When it does, there will
-                be a button at the top of the site. Click this, and then you
-                will be redirected to a page where you can click the appropriate
-                form. If you&#39;re interested in participating as a hacker in
-                HackTJ, click the first button, that says
+                Registration will open at 8 p.m. on Monday, November 2. When it
+                does, there will be a button at the top of the site. Click this,
+                and then you will be redirected to a page where you can click
+                the appropriate form. If you&#39;re interested in participating
+                as a hacker in HackTJ, click the first button, that says
                 &quot;Participants&quot;. Fill out the questions. Near the end,
                 there will be a few questions where you can upload your forms.
                 In order to speed up the registration process, print out these
