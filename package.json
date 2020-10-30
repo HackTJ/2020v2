@@ -15,6 +15,7 @@
     "@typescript-eslint/parser": "^3.0.0",
     "chart.js": "^3.0.0-alpha",
     "history": "^5.0.0",
+    "jq.node": "^2.2.0",
     "lodash": "^4.17.15",
     "mapbox-gl": "^1.11.0",
     "react": "^16.13.1",
