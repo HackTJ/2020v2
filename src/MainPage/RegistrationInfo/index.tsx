@@ -12,7 +12,7 @@ const RegistrationInfo = (): JSX.Element => (
         {/* <div className="vertical-segment green"></div> */}
         <h1 className="section-title">Registration Info</h1>
         <p className="large centered">
-          Registration for participants will open at 8pm on November 2nd, so
+          Registration for participants will open at 8 p.m. on November 2nd, so
           make sure you're ready!
         </p>
         <p className="large centered">

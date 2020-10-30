@@ -66,9 +66,9 @@ const Questions = (): JSX.Element => (
             question="Is there a deadline?"
             answer={
               <span>
-                Registration for participants, judges, mentors, and volunteers
-                will likely open sometime during early November and close near
-                late November. Registration for participants will open at 8pm on
+                Registration for judges, mentors, and volunteers will likely
+                open sometime during early November and close near late
+                November. Registration for participants will open at 8 p.m. on
                 Monday, November 2 and close in mid-November. All of our plans
                 are still tentative due to COVID-19; changes to our dates will
                 be reflected on this webpage as soon as they are decided!
@@ -143,7 +143,7 @@ const Questions = (): JSX.Element => (
             question="How do I register?"
             answer={
               <span>
-                Registration will open at 8pm on Monday, November 2. When it
+                Registration will open at 8 p.m. on Monday, November 2. When it
                 does, there will be a button at the top of the site. Click this,
                 and then you will be redirected to a page where you can click
                 the appropriate form. If you&#39;re interested in participating
