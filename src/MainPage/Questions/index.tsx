@@ -69,9 +69,10 @@ const Questions = (): JSX.Element => (
                 Registration for judges, mentors, and volunteers will likely
                 open sometime during early November and close near late
                 November. Registration for participants will open at 8 p.m. on
-                Monday, November 2 and close in mid-November. All of our plans
-                are still tentative due to COVID-19; changes to our dates will
-                be reflected on this webpage as soon as they are decided!
+                Monday, November 2 and close at 8 p.m. on Friday, November 13,
+                2020. All of our plans are still tentative due to COVID-19;
+                changes to our dates will be reflected on this webpage as soon
+                as they are decided!
               </span>
             }
           />
@@ -145,7 +146,7 @@ const Questions = (): JSX.Element => (
               <ol>
                 <li>
                   At 8 p.m. on Monday, November 2, a button will appear at the
-                  top of this site. Click this.
+                  top of this site. Click it.
                 </li>
                 <li>
                   You will be redirected to a page where you can click the
