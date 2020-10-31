@@ -142,17 +142,26 @@ const Questions = (): JSX.Element => (
           <FAQuestion
             question="How do I register?"
             answer={
-              <span>
-                Registration will open at 8 p.m. on Monday, November 2. When it
-                does, there will be a button at the top of the site. Click this,
-                and then you will be redirected to a page where you can click
-                the appropriate form. If you&#39;re interested in participating
-                as a hacker in HackTJ, click the first button, that says
-                &quot;Participants&quot;. Fill out the questions. Near the end,
-                there will be a few questions where you can upload your forms.
-                In order to speed up the registration process, print out these
-                forms, fill them out, and scan them beforehand.
-              </span>
+              <ol>
+                <li>
+                  At 8 p.m. on Monday, November 2, a button will appear at the
+                  top of this site. Click this.
+                </li>
+                <li>
+                  You will be redirected to a page where you can click the
+                  appropriate form.
+                </li>
+                <li>
+                  Fill out the questions. Near the end, there will be a few
+                  questions where you can upload your forms.
+                  <ul>
+                    <li>
+                      In order to speed up the registration process, print out
+                      these forms, fill them out, and scan them beforehand.
+                    </li>
+                  </ul>
+                </li>
+              </ol>
             }
           />
           <FAQuestion
