@@ -142,8 +142,8 @@ const Questions = (): JSX.Element => (
                   <li>Greatest Social Impact</li>
                   <li>Best Beginner Hack (first-year coder teams)</li>
                 </ul>
-                Major League Hacking and some of our partners also host their own
-                Sponsored Prizes, which you can explore when the 7.5 Devpost
+                Major League Hacking and some of our partners also host their
+                own Sponsored Prizes, which you can explore when the 7.5 Devpost
                 goes live.
               </span>
             }
@@ -166,7 +166,15 @@ const Questions = (): JSX.Element => (
                   <ul>
                     <li>
                       In order to speed up the registration process, print out
-                      these forms, fill them out, and scan them beforehand.
+                      the{" "}
+                      <Link
+                        to={`${process.env.PUBLIC_URL || ""}/forms/field_trip.pdf`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        field trip form
+                      </Link>{" "}
+                      and scan it beforehand.
                     </li>
                   </ul>
                 </li>
