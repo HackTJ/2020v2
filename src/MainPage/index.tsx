@@ -5,7 +5,7 @@ import IndeterminateLoadingIndicator from "../IndeterminateLoadingIndicator";
 const Landing = React.lazy(() => import("./Landing"));
 const NavigationBar = React.lazy(() => import("../NavigationBar"));
 const Intro = React.lazy(() => import("./Intro"));
-// const RegistrationInfo = React.lazy(() => import("./RegistrationInfo"));
+const RegistrationInfo = React.lazy(() => import("./RegistrationInfo"));
 // const RegistrationChoice = React.lazy(() => import("../RegistrationChoice"));
 const Questions = React.lazy(() => import("./Questions"));
 const Sponsors = React.lazy(() => import("./Sponsors"));
@@ -21,8 +21,8 @@ const MainPage = (): JSX.Element => (
       <Landing />
       <NavigationBar />
       <Intro />
-      {/* <RegistrationInfo />
-      {/*<RegistrationChoice /> */}
+      <RegistrationInfo />
+      {/* <RegistrationChoice /> */}
       <Questions />
       <Sponsors />
       {/* <Statistics /> */}
