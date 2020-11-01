@@ -1,5 +1,6 @@
 import * as React from "react";
 
+import { Link } from "react-router-dom";
 import { Container, Row } from "reactstrap";
 
 import FAQuestion from "./FAQuestion";
@@ -82,13 +83,13 @@ const Questions = (): JSX.Element => (
             answer={
               <span>
                 Yes, good question! We have adopted the{" "}
-                <a
-                  href={`${process.env.PUBLIC_URL || ""}/conduct.pdf`}
+                <Link
+                  to={`${process.env.PUBLIC_URL || ""}/conduct.pdf`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   MLH code of conduct
-                </a>
+                </Link>
                 , which all attendees will be required to adhere to.
               </span>
             }
@@ -132,9 +133,16 @@ const Questions = (): JSX.Element => (
             answer={
               <span>
                 HackTJ hosts prizes for the best projects in the following
-                categories: Overall Hack, Web App, Mobile App,Design, Social
-                Impact Hack, and Beginner Hack (first-year coder teams). Major
-                League Hacking and some of our partners also host their own
+                categories:
+                <ul>
+                  <li>Best Overall Hack</li>
+                  <li>Best Web App</li>
+                  <li>Best Mobile App</li>
+                  <li>Best Design</li>
+                  <li>Greatest Social Impact</li>
+                  <li>Best Beginner Hack (first-year coder teams)</li>
+                </ul>
+                Major League Hacking and some of our partners also host their own
                 Sponsored Prizes, which you can explore when the 7.5 Devpost
                 goes live.
               </span>
