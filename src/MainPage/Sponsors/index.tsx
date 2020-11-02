@@ -61,20 +61,7 @@ const Sponsors = (): JSX.Element => (
         {/* Gold Tier */}
         <h2 className="tier-title">GOLD</h2>
         <div className="partner-container">
-          {[
-            {
-              url: "https://aws.amazon.com/",
-              logo: "aws.png",
-              name: "Amazon Web Services",
-            },
-          ].map((company) => (
-            <Logo
-              name={company.name}
-              url={company.url}
-              logo={company.logo}
-              key={company.name}
-            />
-          ))}
+          (Your company could be here!)
         </div>
 
         {/* Silver Tier */}
@@ -85,11 +72,6 @@ const Sponsors = (): JSX.Element => (
               url: "https://www.yext.com",
               logo: "yext.png",
               name: "Yext",
-            },
-            {
-              url: "https://www.ensco.com",
-              logo: "ensco.png",
-              name: "Ensco",
             },
             {
               url: "https://cloudwaveinc.com/",
@@ -149,6 +131,11 @@ const Sponsors = (): JSX.Element => (
               url: "https://www.verizonmedia.com/",
               logo: "verizonmedia.png",
               name: "Verizon Media",
+            },
+            {
+              url: "https://basecamp.com/",
+              logo: "basecamp.png",
+              name: "Basecamp",
             },
             {
               url: "https://www.primamedicine.com",
