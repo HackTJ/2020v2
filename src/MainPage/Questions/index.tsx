@@ -168,7 +168,9 @@ const Questions = (): JSX.Element => (
                       In order to speed up the registration process, print out
                       the{" "}
                       <Link
-                        to={`${process.env.PUBLIC_URL || ""}/forms/field_trip.pdf`}
+                        to={`${
+                          process.env.PUBLIC_URL || ""
+                        }/forms/field_trip.pdf`}
                         target="_blank"
                         rel="noopener noreferrer"
                       >

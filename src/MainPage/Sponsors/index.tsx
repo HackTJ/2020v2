@@ -60,9 +60,7 @@ const Sponsors = (): JSX.Element => (
 
         {/* Gold Tier */}
         <h2 className="tier-title">GOLD</h2>
-        <div className="partner-container">
-          (Your company could be here!)
-        </div>
+        <div className="partner-container">(Your company could be here!)</div>
 
         {/* Silver Tier */}
         <h2 className="tier-title">SILVER</h2>
@@ -203,6 +201,7 @@ const Sponsors = (): JSX.Element => (
         <p className="large">
           Can&#39;t see our sponsors? Try disabling ad block for this page.
         </p>
+        <h1 className="section-title">Partners</h1>
         <div className="partner-container">
           {[
             {
