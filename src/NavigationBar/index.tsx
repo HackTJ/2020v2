@@ -5,7 +5,6 @@ import { Navbar, Nav, NavLink, NavItem } from "reactstrap";
 import "./index.css";
 
 const NavigationBar = (): JSX.Element => (
-  // TODO: get rid of <div style={{height: "50px"}} /> and use CSS instead
   <Navbar
     sticky="top"
     className="navcontainer"
