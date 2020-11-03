@@ -57,10 +57,10 @@ const RegistrationChoice = (): JSX.Element => (
         </p>
         <br />
         <p className="large centered">
-          Judges must be present during the entire judging process (9:30 a.m. to
-          11:30 a.m. on Sunday), but not necessarily during the entire
-          hackathon. Computer science and engineering experience is preferred
-          but not required.
+          Judges must be present during the entire judging process (5:00 p.m. to
+          7:30 p.m. on Sunday), but not necessarily during the entire hackathon.
+          Computer science and engineering experience is preferred but not
+          required.
         </p>
         <br />
         <p className="large centered">
