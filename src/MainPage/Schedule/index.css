@@ -7,7 +7,7 @@ section.schedule ul.day {
   margin-bottom: 20px;
 }
 
-section.schedule ul.day .day-title {
+section.schedule h2.day-title {
   box-sizing: border-box;
   color: #64d861;
   display: inline-block;
@@ -15,9 +15,6 @@ section.schedule ul.day .day-title {
   width: 50%;
   max-width: 220px;
   margin-bottom: 10px;
-}
-
-section.schedule ul.day .day-title h3 {
   font-weight: 500;
   margin: 5px 25px;
   font-size: 18px;
