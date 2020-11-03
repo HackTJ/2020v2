@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f219f55cd71f06b658d77f2b50527c9",
+    "revision": "edd46152b8f98df706286c373c12a0ce",
     "url": "/2020v2/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/15.facda840.chunk.css"
   },
   {
-    "revision": "bb8143ffb64462b3bcd4",
+    "revision": "51a08dc5d983a55f0fe3",
     "url": "/2020v2/static/css/16.9530b92f.chunk.css"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/6.225f4e84.chunk.css"
   },
   {
-    "revision": "273278a26f74fde1f962",
+    "revision": "e5997002cd43972dfd5a",
     "url": "/2020v2/static/css/7.88da5f5b.chunk.css"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/15.02f0f0ab.chunk.js"
   },
   {
-    "revision": "bb8143ffb64462b3bcd4",
-    "url": "/2020v2/static/js/16.1f8653d7.chunk.js"
+    "revision": "51a08dc5d983a55f0fe3",
+    "url": "/2020v2/static/js/16.71ccded3.chunk.js"
   },
   {
     "revision": "d4abc191c37a9814cff6",
@@ -132,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/6.23b21820.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "273278a26f74fde1f962",
-    "url": "/2020v2/static/js/7.62802c9d.chunk.js"
+    "revision": "e5997002cd43972dfd5a",
+    "url": "/2020v2/static/js/7.89b60ba7.chunk.js"
   },
   {
     "revision": "81896c98bac7b5b16ab1d3790da5b937",
-    "url": "/2020v2/static/js/7.62802c9d.chunk.js.LICENSE.txt"
+    "url": "/2020v2/static/js/7.89b60ba7.chunk.js.LICENSE.txt"
   },
   {
     "revision": "82b72538c106a1d4d6a7",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/main.1c2476c3.chunk.js"
   },
   {
-    "revision": "669a545a3189e6eb06b9",
-    "url": "/2020v2/static/js/runtime-main.9fb6882a.js"
+    "revision": "d8bb842fde7b45557ab4",
+    "url": "/2020v2/static/js/runtime-main.6efa96f3.js"
   },
   {
     "revision": "8c03f701b97b7b07272d874246a0c311",
