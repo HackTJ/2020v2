@@ -6,7 +6,7 @@ const Landing = React.lazy(() => import("./Landing"));
 const NavigationBar = React.lazy(() => import("../NavigationBar"));
 const Intro = React.lazy(() => import("./Intro"));
 const RegistrationInfo = React.lazy(() => import("./RegistrationInfo"));
-// const RegistrationChoice = React.lazy(() => import("../RegistrationChoice"));
+const RegistrationChoice = React.lazy(() => import("../RegistrationChoice"));
 const Questions = React.lazy(() => import("./Questions"));
 const Sponsors = React.lazy(() => import("./Sponsors"));
 // const Statistics = React.lazy(() => import("./Statistics"));
@@ -22,7 +22,7 @@ const MainPage = (): JSX.Element => (
       <NavigationBar />
       <Intro />
       <RegistrationInfo />
-      {/* <RegistrationChoice /> */}
+      <RegistrationChoice />
       <Questions />
       <Sponsors />
       {/* <Statistics /> */}

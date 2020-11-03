@@ -23,12 +23,12 @@ const Landing = (): JSX.Element => (
         <div className="event-date landing">December 12th-13th, 2020</div>
         <div className="event-location landing">Online</div>
         <div className="register-button-block-old top">
-          {/* <Link
-           className="button register-button mentor blackbutton"
-           to="registration"
+          <Link
+            className="button register-button mentor blackbutton"
+            to="registration"
           >
-           Register for HackTJ 7.0
-          </Link> */}
+            Register for HackTJ 7.5
+          </Link>
           <a
             className="button register-button mentor blackbutton"
             href="https://www.facebook.com/pg/HackTJOfficial/photos/?tab=album&album_id=2168769876535523"
