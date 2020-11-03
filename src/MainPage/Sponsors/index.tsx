@@ -101,6 +101,11 @@ const Sponsors = (): JSX.Element => (
               name: "Phone2Action",
             },
             {
+              url: "https://www.cvent.com",
+              logo: "cvent.png",
+              name: "Cvent",
+            },
+            {
               url: "https://www.tensorflow.org/",
               logo: "tensorflow.png",
               name: "TensorFlow",
@@ -208,11 +213,6 @@ const Sponsors = (): JSX.Element => (
               url: "https://mlh.io",
               logo: "mlh.png",
               name: "Major League Hacking",
-            },
-            {
-              url: "https://www.cvent.com",
-              logo: "cvent.png",
-              name: "Cvent",
             },
             {
               url: "https://www.tjpartnershipfund.org",
