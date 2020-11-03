@@ -29,11 +29,14 @@
   height: 50px;
 }
 
-.navcontainer .nav h1 {
-  color: #fff !important;
-  text-decoration: none;
-  margin: 0 20px;
-  line-height: 50px;
+.navcontainer .nav li {
+  list-style-type: none;
+}
+
+.navcontainer .nav a {
+  color: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .navcontainer {

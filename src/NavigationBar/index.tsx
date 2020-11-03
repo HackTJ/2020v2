@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import { Navbar, Nav, NavLink } from "reactstrap";
+import { Navbar, Nav, NavLink, NavItem } from "reactstrap";
 
 import "./index.css";
 
@@ -18,33 +18,28 @@ const NavigationBar = (): JSX.Element => (
       zIndex: 1000,
     }}
   >
-    <div style={{ height: "50px" }} />
-    <Nav className="nav justify-content-center">
-      <NavLink href="#intro">
-        <h1>Intro</h1>
-      </NavLink>
-      <NavLink href="#faq">
-        <h1>FAQ</h1>
-      </NavLink>
-      <NavLink href="#sponsor">
-        <h1>Sponsors</h1>
-      </NavLink>
-      {/*
-        <NavLink href="#demographics">
-         <h1>Demographics</h1>
-        </NavLink>
-        */}
-      <NavLink href="#schedule">
-        <h1>Schedule</h1>
-      </NavLink>
-      <NavLink href="#team">
-        <h1>Team</h1>
-      </NavLink>
-      {/*
-        <NavLink href="#map">
-         <h1>Map</h1>
-        </NavLink>
-        */}
+    <Nav className="nav justify-content-center" navbar>
+      <NavItem>
+        <NavLink href="#intro">Intro</NavLink>
+      </NavItem>
+      <NavItem>
+        <NavLink href="#faq">FAQ</NavLink>
+      </NavItem>
+      <NavItem>
+        <NavLink href="#sponsor">Sponsors</NavLink>
+      </NavItem>
+      {/* <NavItem>
+        <NavLink href="#demographics">Demographics</NavLink>
+      </NavItem> */}
+      <NavItem>
+        <NavLink href="#schedule">Schedule</NavLink>
+      </NavItem>
+      <NavItem>
+        <NavLink href="#team">Team</NavLink>
+      </NavItem>
+      {/* <NavItem>
+        <NavLink href="#map">Map</NavLink>
+      </NavItem> */}
     </Nav>
   </Navbar>
 );
