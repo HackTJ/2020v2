@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b321d4a53e07c286858d09fa7f5bc16",
+    "revision": "0bb02ec7db5f95be2d267cd04b15b4f3",
     "url": "/2020v2/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/13.adb3c73c.chunk.css"
   },
   {
-    "revision": "f4492f23dcf726c0827d",
+    "revision": "0f25afec6848c4df6aef",
     "url": "/2020v2/static/css/14.a5862c89.chunk.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/css/8.5e14e67d.chunk.css"
   },
   {
-    "revision": "e68d5f059374b220ca90",
+    "revision": "d8a26630dadb2d776676",
     "url": "/2020v2/static/css/9.f5cfdc5b.chunk.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/13.83dd3644.chunk.js"
   },
   {
-    "revision": "f4492f23dcf726c0827d",
-    "url": "/2020v2/static/js/14.dfcd7920.chunk.js"
+    "revision": "0f25afec6848c4df6aef",
+    "url": "/2020v2/static/js/14.be22b07d.chunk.js"
   },
   {
     "revision": "33f006f3736e9558dc8a",
@@ -148,20 +148,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020v2/static/js/8.2c989599.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e68d5f059374b220ca90",
-    "url": "/2020v2/static/js/9.c8aac978.chunk.js"
+    "revision": "d8a26630dadb2d776676",
+    "url": "/2020v2/static/js/9.6af0ccd4.chunk.js"
   },
   {
     "revision": "81896c98bac7b5b16ab1d3790da5b937",
-    "url": "/2020v2/static/js/9.c8aac978.chunk.js.LICENSE.txt"
+    "url": "/2020v2/static/js/9.6af0ccd4.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c62b7245adba30fe3729",
     "url": "/2020v2/static/js/main.1c2476c3.chunk.js"
   },
   {
-    "revision": "a024686bc38a939a72c9",
-    "url": "/2020v2/static/js/runtime-main.82b2cae3.js"
+    "revision": "b41202a2692184d841ad",
+    "url": "/2020v2/static/js/runtime-main.6ac5a26d.js"
   },
   {
     "revision": "8c03f701b97b7b07272d874246a0c311",
