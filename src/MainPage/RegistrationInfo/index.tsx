@@ -41,7 +41,7 @@ const RegistrationInfo = (): JSX.Element => (
           Please note that registering alone does not guarantee you will receive
           a ticket. Tickets decisions will be made based on a variety of factors
           including the date/time you register, so make sure to sign up quickly!
-          Tickets decisions will be sent out on November 16, 2020, but this date
+          Tickets decisions will be sent out on December 1, 2020, but this date
           may change.
         </p>
       </div>
