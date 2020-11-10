@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import { Col } from "reactstrap";
+import { Col, Button } from "reactstrap";
 
 import "./index.css";
 
@@ -20,9 +20,9 @@ const FAQuestion = ({
   return (
     <Col className={`${showAnswer ? "is-open" : ""}`}>
       <h3 className={`question ${small || false ? "small" : ""}`}>
-        <button type="button" onClick={toggleShowAnswer}>
+        <Button type="button" onClick={toggleShowAnswer} close={showAnswer}>
           {question}
-        </button>
+        </Button>
         <span
           className="icon icon-plus"
           onClick={toggleShowAnswer}
