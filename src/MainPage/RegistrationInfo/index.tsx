@@ -14,9 +14,9 @@ const RegistrationInfo = (): JSX.Element => (
         {/* <div className="vertical-segment green"></div> */}
         <h1 className="section-title">Registration Info</h1>
         <p className="large centered">
-          Registration for participants will open at 8 p.m. on November 2nd, so
-          make sure you&rsquo;re ready! Registration will close at 8 p.m. on
-          Friday, November 27, 2020.
+          Registration for participants opened at 8 p.m. on November 2nd.
+          Registration for participants closed at 8 p.m. on Friday, November 27,
+          2020.
         </p>
         <p className="large centered">
           When you register you&apos;ll be asked for the field trip form. If you

@@ -21,39 +21,23 @@ const RegistrationChoice = (): JSX.Element => (
          style={{ left: "-15%", top: "-14%", height: "123%" }}
         ></div> */}
         <h1 className="section-title">Register</h1>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(2, 1fr)",
-          }}
+        <a
+          className="flatbutton long-label"
+          style={{ width: "40%", marginLeft: "auto" }}
+          href="https://tinyurl.com/hacktjmentorjudge"
+          target="_blank"
+          rel="noopener noreferrer"
         >
-          <a
-            className="flatbutton"
-            style={{ width: "80%" }}
-            href="https://tinyurl.com/hacktjstudent"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <div className="text">Participants</div>
-          </a>
-          <a
-            className="flatbutton long-label"
-            style={{ width: "80%" }}
-            href="https://tinyurl.com/hacktjmentorjudge"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <div className="text">Judges/Mentors</div>
-          </a>
-        </div>
+          <div className="text">Judges/Mentors</div>
+        </a>
         <br />
         <p className="large centered">
-          Participants must be current high school students. Computer science
-          and engineering experience is not necessary, as we&#39;ll have
-          workshops and mentors so you can learn. Please note that registering
-          alone does not guarantee you will receive a ticket. Admission
-          decisions will be made based on a variety of factors including the
-          date/time you register, so make sure to sign up quickly!
+          Registration for participants has closed! Participants must be current
+          high school students. Computer science and engineering experience is
+          not necessary, as we&#39;ll have workshops and mentors so you can
+          learn. Please note that registering alone does not guarantee you will
+          receive a ticket. Admission decisions will be made based on a variety
+          of factors including the date/time you register.
         </p>
         <br />
         <p className="large centered">
