@@ -76,6 +76,11 @@ const Sponsors = (): JSX.Element => (
               logo: "citadelsecurities.png",
               name: "Citadel Securities",
             },
+            {
+              url: "https://repl.it/",
+              logo: "replit.png",
+              name: "Repl.it",
+            },
           ].map((company) => (
             <Logo
               name={company.name}
@@ -120,6 +125,11 @@ const Sponsors = (): JSX.Element => (
               logo: "basecamp.png",
               name: "Basecamp",
             },
+            {
+              url: "https://www.janestreet.com/",
+              logo: "janestreet.png",
+              name: "Jane Street",
+            },
           ].map((company) => (
             <Logo
               name={company.name}
@@ -138,11 +148,6 @@ const Sponsors = (): JSX.Element => (
               url: "https://www.echoar.xyz/",
               logo: "echoar.png",
               name: "echoAR",
-            },
-            {
-              url: "https://repl.it/",
-              logo: "replit.png",
-              name: "Repl.it",
             },
             {
               url: "https://www.stickermule.com/",
