@@ -11,6 +11,9 @@ src/**/*.js
 !.yarn/releases
 !.yarn/plugins
 
+# ESLint
+.eslintcache
+
 # dependencies
 /node_modules
 /.pnp

@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import "./index.css";
 
 // import { ReactComponent as Logo } from "../../images/bigweblogo.svg";
-const logo = require("../../images/bigweblogo.png");
+const logo = require("../../images/bigweblogo.png").default;
 
 const Landing = (): JSX.Element => (
   <section className="hero">

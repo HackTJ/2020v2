@@ -1,4 +1,4 @@
-import React, { useState, memo } from "react";
+import React, { useRef, useState, useEffect, memo } from "react";
 
 import { Tooltip } from "reactstrap";
 
@@ -11,9 +11,16 @@ type Props = {
 };
 
 const Logo = ({ url, name, logo }: Props): JSX.Element => {
-  const sponsorID: string = name.toLowerCase().replace(/ /g, "-");
+  const parentRef = useRef(null!);
 
-  const [showTooltip, setShowTooltip] = useState<boolean>(false);
+  const [isReady, setIsReady] = useState(false);
+  const [showTooltip, setShowTooltip] = useState(false);
+
+  useEffect(() => {
+    if (parentRef.current) {
+      setIsReady(true);
+    }
+  }, []);
 
   return (
     <>
@@ -23,36 +30,34 @@ const Logo = ({ url, name, logo }: Props): JSX.Element => {
         target="_blank"
         rel="noopener noreferrer"
         data-tip="data-tip"
-        data-for={sponsorID}
-        id={`img-${sponsorID}`}
+        ref={parentRef}
       >
         <>
           <img
-            id={`img-normal-${sponsorID}`}
             className={`sponsor-image normal ${showTooltip ? "show" : "hide"}`}
-            src={require(`../../../images/sponsors/normal/${logo}`)}
+            src={require(`../../../images/sponsors/normal/${logo}`).default}
             alt={name}
           />
           <img
-            id={`img-tint-${sponsorID}`}
             className={`sponsor-image tint ${showTooltip ? "hide" : "show"}`}
-            src={require(`../../../images/sponsors/tint/${logo}`)}
+            src={require(`../../../images/sponsors/tint/${logo}`).default}
             alt={name}
           />
         </>
       </a>
-      <Tooltip
-        id={sponsorID}
-        placement="top"
-        type="dark"
-        effect="solid"
-        isOpen={showTooltip}
-        toggle={() => setShowTooltip(!showTooltip)}
-        autohide={false}
-        target={`img-${sponsorID}`}
-      >
-        {name}
-      </Tooltip>
+      {isReady && (
+        <Tooltip
+          placement="top"
+          type="dark"
+          effect="solid"
+          isOpen={showTooltip}
+          toggle={() => setShowTooltip(!showTooltip)}
+          autohide={false}
+          target={parentRef.current}
+        >
+          {name}
+        </Tooltip>
+      )}
     </>
   );
 };

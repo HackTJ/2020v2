@@ -4,11 +4,11 @@ import { Col, Button } from "reactstrap";
 
 import "./index.css";
 
-type Props = {
+interface Props {
   question: string;
   answer: React.ReactElement<"span">;
-  small: boolean;
-};
+  small?: boolean;
+}
 
 const FAQuestion = ({
   question,
@@ -19,7 +19,7 @@ const FAQuestion = ({
   const toggleShowAnswer = () => setShowAnswer(!showAnswer);
   return (
     <Col className={`${showAnswer ? "is-open" : ""}`}>
-      <h3 className={`question ${small || false ? "small" : ""}`}>
+      <h3 className={`question ${small ? "small" : ""}`}>
         <Button type="button" onClick={toggleShowAnswer} close={showAnswer}>
           {question}
         </Button>
@@ -50,10 +50,6 @@ const FAQuestion = ({
       </div>
     </Col>
   );
-};
-
-FAQuestion.defaultProps = {
-  small: false,
 };
 
 export default React.memo(FAQuestion);

@@ -2,20 +2,20 @@ import * as React from "react";
 
 import "./index.css";
 
-type Props = {
+interface Props {
   logo: string;
   iteration: string;
   year: string;
   url: string;
-  disabled: boolean;
-};
+  disabled?: boolean;
+}
 
 const DevpostCard = ({
   logo,
   iteration,
   year,
   url,
-  disabled,
+  disabled = false,
 }: Props): JSX.Element => (
   <div className="history-section">
     <div className="action-section">
@@ -44,9 +44,5 @@ const DevpostCard = ({
     </div>
   </div>
 );
-
-DevpostCard.defaultProps = {
-  disabled: false,
-};
 
 export default DevpostCard;

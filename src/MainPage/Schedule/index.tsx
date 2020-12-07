@@ -52,6 +52,12 @@ const Schedule = (): JSX.Element => (
         <h2 className="day-title">Sunday, December 13</h2>
         <ul className="day">
           <li className="item">
+            <h6 className="time">1:00pm</h6>
+            <div className="description">
+              Alumni Panel for CS x Fields in STEM
+            </div>
+          </li>
+          <li className="item">
             <h6 className="time">2:00pm</h6>
             <div className="description">Pictionary</div>
           </li>
