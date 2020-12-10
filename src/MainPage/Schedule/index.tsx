@@ -38,15 +38,11 @@ const Schedule = (): JSX.Element => (
           </li>
           <li className="item">
             <h6 className="time">4:30pm</h6>
-            <div className="description">Chess Blitz</div>
-          </li>
-          <li className="item">
-            <h6 className="time">7:00pm</h6>
-            <div className="description">Board Game Emulator</div>
+            <div className="description">Among Us</div>
           </li>
           <li className="item">
             <h6 className="time">8:00pm</h6>
-            <div className="description">MLH Mini-Event</div>
+            <div className="description">MLH's Bob Ross with MS Paint</div>
           </li>
         </ul>
         <h2 className="day-title">Sunday, December 13</h2>
@@ -58,20 +54,20 @@ const Schedule = (): JSX.Element => (
             </div>
           </li>
           <li className="item">
-            <h6 className="time">2:00pm</h6>
-            <div className="description">Pictionary</div>
-          </li>
-          <li className="item">
-            <h6 className="time">5:00pm</h6>
+            <h6 className="time">4:00pm</h6>
             <div className="description">Hacking Ends</div>
           </li>
           <li className="item">
-            <h6 className="time">5:30pm</h6>
+            <h6 className="time">4:30pm</h6>
             <div className="description">Judging Starts</div>
           </li>
           <li className="item">
-            <h6 className="time">8:30pm</h6>
+            <h6 className="time">9:30pm</h6>
             <div className="description">Closing Ceremony</div>
+          </li>
+          <li className="item">
+            <h6 className="time">10:30pm</h6>
+            <div className="description">Hackathon Ends</div>
           </li>
         </ul>
       </div>
