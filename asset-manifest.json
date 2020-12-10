@@ -3,8 +3,8 @@
     "main.css": "/2020v2/static/css/main.c322b583.chunk.css",
     "main.js": "/2020v2/static/js/main.5f6ae1a4.chunk.js",
     "main.js.map": "/2020v2/static/js/main.5f6ae1a4.chunk.js.map",
-    "runtime-main.js": "/2020v2/static/js/runtime-main.cc34edfc.js",
-    "runtime-main.js.map": "/2020v2/static/js/runtime-main.cc34edfc.js.map",
+    "runtime-main.js": "/2020v2/static/js/runtime-main.8364a25b.js",
+    "runtime-main.js.map": "/2020v2/static/js/runtime-main.8364a25b.js.map",
     "static/js/2.d667cf56.chunk.js": "/2020v2/static/js/2.d667cf56.chunk.js",
     "static/js/2.d667cf56.chunk.js.map": "/2020v2/static/js/2.d667cf56.chunk.js.map",
     "static/css/3.680db9d9.chunk.css": "/2020v2/static/css/3.680db9d9.chunk.css",
@@ -43,8 +43,8 @@
     "static/js/14.60dcccb0.chunk.js": "/2020v2/static/js/14.60dcccb0.chunk.js",
     "static/js/14.60dcccb0.chunk.js.map": "/2020v2/static/js/14.60dcccb0.chunk.js.map",
     "static/css/15.5cff8487.chunk.css": "/2020v2/static/css/15.5cff8487.chunk.css",
-    "static/js/15.302c7643.chunk.js": "/2020v2/static/js/15.302c7643.chunk.js",
-    "static/js/15.302c7643.chunk.js.map": "/2020v2/static/js/15.302c7643.chunk.js.map",
+    "static/js/15.9fc4bccc.chunk.js": "/2020v2/static/js/15.9fc4bccc.chunk.js",
+    "static/js/15.9fc4bccc.chunk.js.map": "/2020v2/static/js/15.9fc4bccc.chunk.js.map",
     "static/css/16.53f33884.chunk.css": "/2020v2/static/css/16.53f33884.chunk.css",
     "static/js/16.ae3a20a1.chunk.js": "/2020v2/static/js/16.ae3a20a1.chunk.js",
     "static/js/16.ae3a20a1.chunk.js.map": "/2020v2/static/js/16.ae3a20a1.chunk.js.map",
@@ -106,7 +106,7 @@
     "static/media/tensorflow.png": "/2020v2/static/media/tensorflow.0e5840bf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc34edfc.js",
+    "static/js/runtime-main.8364a25b.js",
     "static/js/5.44338324.chunk.js",
     "static/css/main.c322b583.chunk.css",
     "static/js/main.5f6ae1a4.chunk.js"
